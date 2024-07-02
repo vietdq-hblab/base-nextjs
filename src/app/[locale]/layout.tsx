@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import { AppRouterCacheProvider } from '@mui/material-nextjs/v13-appRouter';
-import './globals.css';
+import '../globals.css';
 import React from 'react';
 import TanstackProvider from '@/contexts/TanstackProvider';
 
